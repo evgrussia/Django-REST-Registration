@@ -26,7 +26,7 @@ django-cors-headers==3.7.0
     # via -r requirements.in
 django-rest-registration==0.6.0
     # via -r requirements.in
-django-rest-swagger==2.2.0
+drf-yasg
     # via -r requirements.in
 djangorestframework==3.12.2
     # via
